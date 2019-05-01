@@ -12,6 +12,9 @@ set incsearch
 set hlsearch
 nnoremap <leader><space> :nohlsearch<CR>
 
+map <F1> <Esc>
+imap <F1> <Esc>
+
 nnoremap j gj
 nnoremap k gk
 

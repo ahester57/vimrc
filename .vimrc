@@ -6,7 +6,6 @@ set expandtab
 set number
 set wildmenu
 set showmatch
-set lazyredraw
 
 set incsearch
 set hlsearch
